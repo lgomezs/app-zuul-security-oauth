@@ -1,4 +1,4 @@
-# Spring Zuul
+# app-zuul-security-oauth
 
  ![Screenshot from running application](img/zuul.png?raw=true "Screenshot zuul")
  
